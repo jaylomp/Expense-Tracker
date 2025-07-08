@@ -22,7 +22,7 @@ This project allows users to create, edit, view, and delete expense entries stor
 - Razor Views
 - C#
 - Bootstrap
-- - JavaScript (for client-side delete confirmation)
+- JavaScript (for client-side delete confirmation)
 
 ### Setup
 
